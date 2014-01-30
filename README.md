@@ -2,6 +2,9 @@
 
 ## Usage
 ```bash
+# sass install
+gem install sass
+
 # grunt install
 npm install -g grunt
 
